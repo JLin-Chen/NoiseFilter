@@ -92,7 +92,7 @@ end
 盐噪声：  
 ![add_salt](/img/add_salt.bmp)
 椒噪声：  
-![add_pepper](/img/add_peper.bmp)
+![add_pepper](/img/add_pepper.bmp)
 
 
 ---
