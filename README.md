@@ -36,6 +36,7 @@
 distI=imnoise(I,'gaussian',0.1);  %0.1为系数，调整噪声的强度，得到添加了高斯噪声的图像
 ```
 ### 对图像的干扰效果
+![gaussian_f7](/img/gaussian_f7.bmp)
 
 ## 均匀分布噪声
 ### 定义
@@ -54,6 +55,9 @@ for i=1:m
 end
 ```
 ### 对图像的干扰效果
+以取值a=50，b=150为例：  
+![balance_50_150](/img/balance_50_150.bmp)  
+![balance50150](/img/balance50150.bmp)  
 
 ## 椒盐噪声
 ### 定义
@@ -83,6 +87,14 @@ end
 ```  
 
 ### 对图像的干扰效果
+椒盐噪声：  
+![add_saltpepper](/img/add_saltpepper.bmp)
+盐噪声：  
+![add_salt](/img/add_salt.bmp)
+椒噪声：  
+![add_pepper](/img/add_peper.bmp)
+
+
 ---
 
 
