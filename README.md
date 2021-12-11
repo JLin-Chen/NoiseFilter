@@ -24,6 +24,9 @@
 * [总结](#总结)
 * [参考文献](#参考文献)
 ---
+# 写在前面
+本文使用的实验图像为：
+![f7](f.bmp)
 # 3种基本噪声  
 ## 高斯噪声
 ### 定义
@@ -88,11 +91,11 @@ end
 
 ### 对图像的干扰效果
 椒盐噪声：  
-![add_saltpepper](/img/add_saltpepper.bmp)
+![add_saltpepper](/img/add_saltpepper.bmp)  
 盐噪声：  
-![add_salt](/img/add_salt.bmp)
+![add_salt](/img/add_salt.bmp)  
 椒噪声：  
-![add_pepper](/img/add_pepper.bmp)
+![add_pepper](/img/add_pepper.bmp)  
 
 
 ---
